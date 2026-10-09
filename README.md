@@ -16,8 +16,8 @@ A next-generation municipal grievance redressal and public service management we
 
 ## 🚀 Live Demo & Deployments
 
-- 🌐 **Live Web Application**: [https://citycare-pro.vercel.app](https://citycare-pro.vercel.app)
-- 🔌 **Backend API Base**: `http://localhost:5000/api/v1` 
+- 🌐 **Live Web Application**: https://b7-a7-city-complaint-service-platfo.vercel.app/
+- 🔌 **Backend API Base**: https://b7-a6-level-2.vercel.app/ 
 
 ---
 
@@ -339,4 +339,3 @@ The application provides a **1-Click Quick Demo Login Switcher** directly on the
 
 ---
 
-_Built with ❤️ for Modern Civic Engagement and Smart Municipal Governance._
